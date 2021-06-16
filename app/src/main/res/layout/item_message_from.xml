@@ -11,6 +11,6 @@
         android:background="@drawable/message_from"
         android:layout_alignParentEnd="true"
         android:layout_margin="12dp"
-        android:textSize="25sp"
+        android:textSize="15sp"
         android:padding="10dp"/>
 </RelativeLayout>
