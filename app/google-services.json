@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375106453826",
+    "project_id": "text-it-aae26",
+    "storage_bucket": "text-it-aae26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375106453826:android:dc048b4e8bb0bf7d4648db",
+        "android_client_info": {
+          "package_name": "com.twentytwo.textit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375106453826-o90tih1vv92a1011j61jo8ldp7ab36o4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.twentytwo.textit",
+            "certificate_hash": "55546453c069cacdbd34c1ac01eb64e802e041f5"
+          }
+        },
+        {
+          "client_id": "375106453826-r21tsj5taqcb8b1bpe06irtqmh718ih6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6-h_lM-5djtQbJtZQ2GHBVwAkY-plxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375106453826-r21tsj5taqcb8b1bpe06irtqmh718ih6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
